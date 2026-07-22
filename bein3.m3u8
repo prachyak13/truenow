@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-ALLOW-CACHE:YES
+
+#EXT-X-STREAM-INF:BANDWIDTH=2800000,NAME="xxx"
+http://dootvz.ddns.net:25461/live/skycos3/aa2233/19090.m3u8
