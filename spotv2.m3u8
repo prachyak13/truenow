@@ -3,4 +3,5 @@
 #EXT-X-ALLOW-CACHE:YES
 
 #EXT-X-STREAM-INF:BANDWIDTH=2800000,NAME="xxx"
-http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/115305.m3u8
+http://103.114.203.129:8080//live/toom/12345/46765.m3u8
+#http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/115305.m3u8
