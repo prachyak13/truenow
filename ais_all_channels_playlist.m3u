@@ -3,565 +3,520 @@
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716132546006600.png" group-title="AIS Play",เอ็นบีที 2 เอชดี
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/AG014/DNF/AG014.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dqZRH4jWQZoe77SB53vivP0nVXAv8fpwPpWyqw8%2BQdAo4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/V0001/DNH/V0001.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUvYsUqR8%2FQLYdIO%2FjYQaduCo4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716132617006744.png" group-title="AIS Play",ไทยพีบีเอส เอชดี
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0014/DNH/V0014.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUuHvo6FqM6p41sfwLpYq7ayo4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/V0014/DNH/V0014.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUv0a2xa4cm5L0PQ4tt4bEVYo4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716132701006689.png" group-title="AIS Play",5 เอชดี
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0007/DNH/V0007.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUuGP1PBtCJEs7XKMPO6zTQio4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/V0007/DNH/V0007.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUtHwUg%2BhXvVgSVAM3YjlxXpo4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250611173728006781.png" group-title="AIS Play",ทีสปอร์ต 7
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0129/DNH/V0129.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUumQHnBpogMHJP2nSB9Pao3o4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/V0129/DNH/V0129.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUuCmyM0qz3zMSMT4N33xf7Eo4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716135946006791.png" group-title="AIS Play",สถานีวิทยุโทรทัศน์รัฐสภา
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0048/DNH/V0048.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUsB4RYgeddGZRYL6nstLXGSo4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/V0048/DNH/V0048.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUu7HNXD0DhadGx9OXnJBRWRo4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716135508006746.png" group-title="AIS Play",ทีเอ็นเอ็น
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0053/DNH/V0053.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUvvPQqz8POxor3qxAKcw9wKo4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/V0053/DNH/V0053.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUvgHYY51D4c9m3uSno9YumLo4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716101724006718.png" group-title="AIS Play",เนชั่น ชาแนล
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0021/DNH/V0021.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUvFhcYB5UUTgaal0INabID4o4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/V0021/DNH/V0021.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUtBneosQXirc2h3zWSVoWi3o4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260915132355006624.png" group-title="AIS Play",เวิร์คพอยท์
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0015/DNH/V0015.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUtL%2BAR40jKH8dK6Sipn83n0o4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/V0015/DNH/V0015.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUsVYoXlJP6M2EHsv6h%2B01sDo4xVYgg24dE3IyMfaKs7GQ%3D%3D
+
+#EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716140038006620.png" group-title="AIS Play",ทรูโฟร์ยู
+#EXTVLCOPT:http-user-agent=ExoPlayer
+#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
+https://mp3.ovp.ais.th:7111/live/eds/V0054/DNH/V0054.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUtBTk2C7TxZvvDSa1WWOv7yo4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250718132043006777.png" group-title="AIS Play",จีเอ็มเอ็ม 25
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0019/DNH/V0019.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUtGbr4rvxlufSGEeRtzYVh9o4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/V0019/DNH/V0019.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUvZm7fNYJ%2FyZU3G%2Fm5w%2BBTvo4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260227093922042823.png" group-title="AIS Play",ช่อง 8
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0006/DNH/V0006.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUszz5LkHfQ%2FUmVdVD0%2FBPyIo4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/V0006/DNH/V0006.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUsjYPyf35g5u3qigRyjMi8Wo4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260602150518056173.png" group-title="AIS Play",โมโนแมกซ์ สปอร์ตส์
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/Z0016/DNF/Z0016.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5ZtzNi%2FvVn52rk2Cru3ngxYZo3PQrPlFQUybmAngWMZqo4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/Z0016/DNF/Z0016.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5ZtzNi%2FvVn52rk2Cru3ngxYVX2v%2F3L7n22DJkC8BALwto4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716132926006776.png" group-title="AIS Play",เอ็มคอท เอชดี 30
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0008/DNH/V0008.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUt4X7vJOnGjW4PJBdUI%2FDcAo4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/V0008/DNH/V0008.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUvrNx2ZXCFwjDN81XdMOVPco4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250718131942006775.png" group-title="AIS Play",วัน เอชดี 31
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0012/DNH/V0012.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUsMgLh8tAM3q2oZDbgYFI5%2Fo4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/V0012/DNH/V0012.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUuESYn9KfCuwYbe%2FlhCf%2FJAo4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716135449006774.png" group-title="AIS Play",ไทยรัฐทีวี เอชดี
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0013/DNH/V0013.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUslo9iTxnvXjybo4ciBRYAbo4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/V0013/DNH/V0013.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUvojtMgR%2Fc83KN0SwSF%2BzrZo4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250718132008006594.png" group-title="AIS Play",3 เอชดี
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0003/DNH/V0003.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUvNVRIW7N2tlU2iVFHWC5yPo4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/V0003/DNH/V0003.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUsqxL1xiKBpP1%2BxK8DsQR2uo4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133045006544.png" group-title="AIS Play",อมรินทร์ ทีวี เอชดี
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0017/DNH/V0017.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUv30I0njVs2hvJK38lDFxDqo4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/V0017/DNH/V0017.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUsD9guCeaNpiE5UGpVVKLx9o4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133132006704.png" group-title="AIS Play",7 เอชดี
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0018/DNH/V0018.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUuiING%2FzNmE8pBDwcKv73Lyo4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/V0018/DNH/V0018.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUs19t%2BdoL9skJkP8DFPJ4r0o4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20251224100714006705.png" group-title="AIS Play",พีพีทีวี เอชดี
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0022/DNH/V0022.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUsSaMYD8y7qSTd%2Bjn0n5MEao4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/V0022/DNH/V0022.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUvCW2OS6QSH%2BpT9%2Bh4U6Zgbo4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716134712006706.png" group-title="AIS Play",เอชบีโอ
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0114/DNF/V0114.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUtkvkNr81boJouY0RrXwmYlo4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/V0114/DNF/V0114.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUt1rrOyAium5bwBwnV98zQTo4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716134720006707.png" group-title="AIS Play",เอชบีโอ ซิกเนเจอร์
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0117/DNF/V0117.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUsdjIA%2FYHogV0G3v99FeY%2Bno4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/V0117/DNF/V0117.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUsH%2FuSaS3BZDlScy%2BMT0ehSo4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716134739006530.png" group-title="AIS Play",เอชบีโอ ฮิตส์
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0116/DNF/V0116.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUvWl9A9%2FiFSZQ8DSWSgY1Xho4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/V0116/DNF/V0116.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUuoov3O1JtH7ujZX3Gm60Yso4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716134747006583.png" group-title="AIS Play",เอชบีโอ แฟมิลี
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0115/DNF/V0115.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11%3A80|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUtI87KqBGyYLYmBLJzbd4sRo4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/V0115/DNF/V0115.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11%3A80|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUueKsPMFWnACyIuJCPsmOTIo4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716134649006712.png" group-title="AIS Play",ซิเนแม็กซ์
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0118/DNF/V0118.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUtEAd9%2F%2FwyKDt7CvYClR%2Fzao4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/V0118/DNF/V0118.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUv0%2BXsZYIIze2J4fTFCJK2go4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716134635006505.png" group-title="AIS Play",เอเชียน ฮิตส์
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0191/DNF/V0191.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUsOm86R8F3Bki9irTMR8Vpoo4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/V0191/DNF/V0191.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUvYv%2F5pQgdqI0qG8jLEH3jco4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716135125006722.png" group-title="AIS Play",วอร์เนอร์ ทีวี
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/X105/DNF/X105.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5da0H1AJCScl9hlOVKc03W8EncOPS5kT1Zvf5nlE5FdvhdiTH7nsMTn629rBoeGv2A%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/X105/DNF/X105.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5da0H1AJCScl9hlOVKc03W%2B%2BNmu6AKDECVeancd2NCY1hdiTH7nsMTn629rBoeGv2A%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716135043006586.png" group-title="AIS Play",โมโน29 พลัส
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0192/DNF/V0192.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUvVOT1Ll%2BcoO2kqnqxjL%2Bs9o4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/V0192/DNF/V0192.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUsVQC4VGQL%2FRapkt4ythWyko4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716135107006734.png" group-title="AIS Play",ร็อค แอ็กชัน
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0166/DNF/V0166.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUvrFASpA3JUxzgKmJZsA6Zzo4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/V0166/DNF/V0166.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUslm4rV1MAB3LUI0DyqGphMo4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716135113006742.png" group-title="AIS Play",ร็อค เอ็นเตอร์เทนเม้น
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0165/DNF/V0165.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUs%2BAKUt9Okd0k71OkVFBi%2Flo4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/V0165/DNF/V0165.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUtYtjdwSBrcgiF2CwiI1HT3o4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716134513006646.png" group-title="AIS Play",การ์ตูนเน็ตเวิร์ค
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/X171/DNF/X171.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5da0H1AJCScl9hlOVKc03W%2B0LqcU00JnQk%2BU%2FI7N%2FyR1hdiTH7nsMTn629rBoeGv2A%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/X171/DNF/X171.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5da0H1AJCScl9hlOVKc03W8vXsLXmbjmXlVb3dlm4XbnhdiTH7nsMTn629rBoeGv2A%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716134525006735.png" group-title="AIS Play",การ์ตูนิโต
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0113/DNF/V0113.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUtIQaSNX9MGWQslnf2oCGuro4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/V0113/DNF/V0113.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUt8auOjOO8jAYy6ARANTKV4o4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716134558006743.png" group-title="AIS Play",นิคโคโลเดียน
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0187/DNF/V0187.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUvHgw1Xom8HmIkD0cgy3MdUo4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/V0187/DNF/V0187.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUt5eEIT2erh1NiW3XM4QPyao4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716134614006738.png" group-title="AIS Play",นิคจูเนียร์
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0186/DNF/V0186.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUswVeGI%2FjF8ZlQNnUAoCuJHo4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/V0186/DNF/V0186.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUtVf3PQwMe3F22mz2s492b6o4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716134435006599.png" group-title="AIS Play",บูมเมอแรง
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0104/DNH/V0104.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUtRIGdzigNii7HRKo0qpI9%2Fo4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/V0104/DNH/V0104.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUtgoSQfaki3GLD84vSztlRBo4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260401133808044641.png" group-title="AIS Play",แมงโก้ โมฮิโต้
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0101/DNF/V0101.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUtRbs1pG89P58Xp3OCpPF8Do4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/V0101/DNF/V0101.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUvFOMCYp27OxQ0c51wSD4qSo4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716132733006506.png" group-title="AIS Play",ฟู้ดเน็ตเวิร์ค
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0162/DNF/V0162.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUs2uLqNFKT5LnOhTP9bdaPco4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/V0162/DNF/V0162.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUv%2FtVSYPcHBUIvv0VFQjpI9o4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716132625006739.png" group-title="AIS Play",เอเชี่ยน ฟู้ด เน็ตเวิร์ค
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0161/DNF/V0161.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11%3A80|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUtBpYEjmqv7sfFLmepUAy2%2Fo4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/V0161/DNF/V0161.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11%3A80|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUtkX143wpmPsltilzD%2BCXbyo4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260930120630006662.png" group-title="AIS Play",ทีแอลซี
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0183/DNF/V0183.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUtf%2Fyt4cDO1fRus4ErhmCZVo4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/V0183/DNF/V0183.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUtGl%2BsTPuzIoc7FUUM9NnWYo4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250718132608006772.png" group-title="AIS Play",โมโน29 มิวสิค สเตชัน
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0193/DNF/V0193.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUv4IXgcstLb0r%2BO45rObhfJo4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/V0193/DNF/V0193.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUsFxgMqL%2Bjk6qXIiTwSJkSTo4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716132819006619.png" group-title="AIS Play",ของดีประเทศไทย
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0154/DNH/V0154.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUsjXknCuMbhMFnDfS7t%2Fjnio4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/V0154/DNH/V0154.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUtq4K2q2YxlNT%2FG1KKxIWjLo4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133116006771.png" group-title="AIS Play",ไทยเนส
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0155/DNH/V0155.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUuH00ZI09Gmo7TrUY3PjtGCo4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/V0155/DNH/V0155.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUuhjCa9OQMODhyxfAN4UkpXo4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250718132739006740.png" group-title="AIS Play",เตเวแซ็งก์มงด์
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0141/DNH/V0141.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUvuuTbgGRCShf05QCHjW3p1o4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/V0141/DNH/V0141.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUue4GQlp0TYGjIdZy0Oq3Jlo4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716101829006643.png" group-title="AIS Play",อารีรัง
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0177/DNH/V0177.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUuQGqHVxuVqtFIfJZ8On67Xo4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/V0177/DNH/V0177.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUu89hkrw4xc93ePGGIt5Bgvo4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716132800006657.png" group-title="AIS Play",ฮูนาน ทีวี
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0175/DNH/V0175.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUsTfgr9K%2FAZPd8mcx0OwNBAo4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/V0175/DNH/V0175.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUsXQ4fbXcSSRRTAG%2FYIYK8to4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716135206006737.png" group-title="AIS Play",ดิสคัฟเวอรี่
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0180/DNF/V0180.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUt6eF25KKWs%2B%2FuL9OQEEmiOo4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/V0180/DNF/V0180.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUuKED9hIyF8AJj0VAbXQWflo4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716135242006736.png" group-title="AIS Play",สำรวจโลก
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0151/DNH/V0151.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUueujA2pqv1U9fx0qfucFDOo4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/V0151/DNH/V0151.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUuvdgBxxHLRq1%2BdwOhTcRIBo4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716135154006635.png" group-title="AIS Play",แอนิมอล โชว์
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0153/DNH/V0153.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUuCbG4u7ilg2ffcxxj33dE5o4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/V0153/DNH/V0153.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUvY0mGdNwTTjuXNm8OcZumOo4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716135234006618.png" group-title="AIS Play",สารคดีรัสเซีย
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0106/DNH/V0106.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUvh1h5mKbS1OPc9eDTUeo2Io4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/V0106/DNH/V0106.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUu%2BW%2FDqDO8UyR%2FMdeIUK3v9o4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716135217006617.png" group-title="AIS Play",มายไซน์
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0152/DNH/V0152.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUvw575lJGZI7x%2BdyCuRiGRro4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/V0152/DNH/V0152.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUuN%2BxjLNTOzRXC%2FHJsM0uy5o4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250820134447018596.png" group-title="AIS Play",เพลย์สปอร์ต 1
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/TL001/DNF/TL001.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5eMmrGDhp%2BjTpSYoZW00Axf3DMZfs64QX1VNMrc8syyCo4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/TL001/DNF/TL001.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5eMmrGDhp%2BjTpSYoZW00Axfc8rwtJHv5ThiAn6DypdEAo4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250820134510018921.png" group-title="AIS Play",เพลย์สปอร์ต 2
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/TL002/DNF/TL002.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5eMmrGDhp%2BjTpSYoZW00AxfkgdMVRiEnMvwOwfWlhcC3o4xVYgg24dE3IyMfaKs7GQ%3D%3D
-
-#EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250820134307018922.png" group-title="AIS Play",เพลย์สปอร์ต 3
-#EXTVLCOPT:http-user-agent=ExoPlayer
-#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/TL003/DNF/TL003.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5eMmrGDhp%2BjTpSYoZW00AxfJLIfASN0MUGfgHGu1W7Pmo4xVYgg24dE3IyMfaKs7GQ%3D%3D
-
-#EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250820134554018923.png" group-title="AIS Play",เพลย์สปอร์ต 4
-#EXTVLCOPT:http-user-agent=ExoPlayer
-#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/TL004/DNF/TL004.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5eMmrGDhp%2BjTpSYoZW00AxdkoBedyM57dfq35ayg5KG9o4xVYgg24dE3IyMfaKs7GQ%3D%3D
-
-#EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250820141703018925.png" group-title="AIS Play",เพลย์สปอร์ต 6
-#EXTVLCOPT:http-user-agent=ExoPlayer
-#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/TL006/DNF/TL006.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5eMmrGDhp%2BjTpSYoZW00Axdsb1R%2BF5fqxAEugjeT3mZqo4xVYgg24dE3IyMfaKs7GQ%3D%3D
-
-#EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250820141713018926.png" group-title="AIS Play",เพลย์สปอร์ต 7
-#EXTVLCOPT:http-user-agent=ExoPlayer
-#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/TL007/DNF/TL007.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5eMmrGDhp%2BjTpSYoZW00Axd4tuHpPFHwWGq25E8k%2By3no4xVYgg24dE3IyMfaKs7GQ%3D%3D
-
-#EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250820141727018927.png" group-title="AIS Play",เพลย์สปอร์ต 8
-#EXTVLCOPT:http-user-agent=ExoPlayer
-#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/TL008/DNF/TL008.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5eMmrGDhp%2BjTpSYoZW00AxdfCmzxhHCZ3dpoW3Lw1R7mo4xVYgg24dE3IyMfaKs7GQ%3D%3D
-
-#EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250820141740018928.png" group-title="AIS Play",เพลย์สปอร์ต 9
-#EXTVLCOPT:http-user-agent=ExoPlayer
-#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/TL009/DNF/TL009.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5eMmrGDhp%2BjTpSYoZW00AxflDiXqbtkLgqHZHkRO0rBzo4xVYgg24dE3IyMfaKs7GQ%3D%3D
-
-#EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250909163557022542.png" group-title="AIS Play",เพลย์สปอร์ต 25
-#EXTVLCOPT:http-user-agent=ExoPlayer
-#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/TL025/DNF/TL025.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5eMmrGDhp%2BjTpSYoZW00AxfjG8JZVegKvUUM%2BweUhdLco4xVYgg24dE3IyMfaKs7GQ%3D%3D
-
-#EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250909163611022543.png" group-title="AIS Play",เพลย์สปอร์ต 26
-#EXTVLCOPT:http-user-agent=ExoPlayer
-#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/TL026/DNF/TL026.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5eMmrGDhp%2BjTpSYoZW00AxcDfeP2ZghHwKhqUgSG4D50o4xVYgg24dE3IyMfaKs7GQ%3D%3D
-
-#EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250909163624022544.png" group-title="AIS Play",เพลย์สปอร์ต 27
-#EXTVLCOPT:http-user-agent=ExoPlayer
-#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/TL027/DNF/TL027.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5eMmrGDhp%2BjTpSYoZW00Axf8UpirqMlpSYQx3i8lTGq5o4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/TL002/DNF/TL002.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5eMmrGDhp%2BjTpSYoZW00Axde3pmzDiQnKH0Z8sDSxqvKo4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250814101231019501.png" group-title="AIS Play",แมนเชสเตอร์ยูไนเต็ด ทีวี
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0028/DNF/V0028.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUuVAGwTKBHsOHNm%2FGGMvfuho4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/V0028/DNF/V0028.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUteu4yDvH6p6XgINkSJWUdIo4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250814102145019502.png" group-title="AIS Play",เรอัล มาดริด ทีวี
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0027/DNF/V0027.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUvHP0p55YBF3Zff8XyYwfWgo4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/V0027/DNF/V0027.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUvLTmtOlALJUcQ47dywVxHQo4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250717161338006023.png" group-title="AIS Play",ยูโรสปอร์ต
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0181/DNF/V0181.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUtgSieLrW7fRRYJmnPeayiAo4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/V0181/DNF/V0181.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUubgD1oF%2FivIsrt8y0JNYGPo4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250717135007006041.png" group-title="AIS Play",ดับเบิ้ลยูสปอร์ต
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0100/DNF/V0100.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUuFAuOqe0HQC27I5c%2B%2BRavHo4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/V0100/DNF/V0100.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUtsnZIHW0IUOjG8kgEQjDhfo4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20251231235118035025.png" group-title="AIS Play",กอล์ฟพลัส
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0130/DNH/V0130.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUtFopiOooOR2HMY47zyFk9eo4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/V0130/DNH/V0130.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUtVzN3xKVipD3AMpXPcG556o4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260127140505037927.png" group-title="AIS Play",พรีเมียร์ สปอร์ต
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0029/DNF/V0029.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUtymmNMSW0DRMFFa2fKs4WMo4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/V0029/DNF/V0029.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUvK3jeyNXMtivflhDYrMBsOo4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260422135014049847.png" group-title="AIS Play",เพลย์สปอร์ต 41
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/RWS001/DNH/RWS001.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5cJzvN9i%2Bx1nhpHgVlcRcSHpmqCIjRQWorsgHF2MjW6aNiuZGZMbUr%2BmR8hozIiRQQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/RWS001/DNH/RWS001.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5cJzvN9i%2Bx1nhpHgVlcRcSH4xeF5PsWUI2BouyvOS%2FCqNiuZGZMbUr%2BmR8hozIiRQQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250820084603019566.png" group-title="AIS Play",เพลย์สปอร์ต 51
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/NFL001/DNF/NFL001.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5QeEZyXe8Z1gmwBOeMWQFSUK%2Fref5AlF6MOSncV4M8WpNiuZGZMbUr%2BmR8hozIiRQQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/NFL001/DNF/NFL001.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5QeEZyXe8Z1gmwBOeMWQFSW77Hk4ApHaWTWiWoTBwiPfNiuZGZMbUr%2BmR8hozIiRQQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250901150258021674.png" group-title="AIS Play",เพลย์สปอร์ต 52
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/NFL002/DNF/NFL002.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5QeEZyXe8Z1gmwBOeMWQFSWOYaqr63BirlGSvwx9en%2FXNiuZGZMbUr%2BmR8hozIiRQQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/NFL002/DNF/NFL002.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5QeEZyXe8Z1gmwBOeMWQFSUBz5Mlv3CgXPwRwNBrG09rNiuZGZMbUr%2BmR8hozIiRQQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250901150316021675.png" group-title="AIS Play",เพลย์สปอร์ต 53
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/NFL003/DNF/NFL003.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5QeEZyXe8Z1gmwBOeMWQFSX98x6aIeEJv8GSmmAtAJzuNiuZGZMbUr%2BmR8hozIiRQQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/NFL003/DNF/NFL003.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5QeEZyXe8Z1gmwBOeMWQFSXvy5SljcuYpXP%2BQ5isPHybNiuZGZMbUr%2BmR8hozIiRQQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20251001131957025352.png" group-title="AIS Play",เพลย์สปอร์ต 55
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/NBA001/DNF/NBA001.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5QeEZyXe8Z1gmwBOeMWQFSVjVW7RahbT1Yny8erKM53zNiuZGZMbUr%2BmR8hozIiRQQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/NBA001/DNF/NBA001.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5QeEZyXe8Z1gmwBOeMWQFSX4Noy2aitnwuBZ77jeBYNtNiuZGZMbUr%2BmR8hozIiRQQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260506151431051870.png" group-title="AIS Play",เพลย์สปอร์ต 57
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/NBA003/DNF/NBA003.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5QeEZyXe8Z1gmwBOeMWQFSWIhOzdqfg8T8e8CR65lYraNiuZGZMbUr%2BmR8hozIiRQQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/NBA003/DNF/NBA003.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5QeEZyXe8Z1gmwBOeMWQFSUX%2FQJKARLymbn49btC60uiNiuZGZMbUr%2BmR8hozIiRQQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20251226102333034473.png" group-title="AIS Play",เพลย์สปอร์ต 61
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/PGA001/DNF/PGA001.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dv0eMZwpzCIQ7S2dT%2FiqgwwbUAylUvW3fhy5QFwEL2aNiuZGZMbUr%2BmR8hozIiRQQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/PGA001/DNF/PGA001.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dv0eMZwpzCIQ7S2dT%2FiqgznCeZ7lBDgGl45ZZtEIKTENiuZGZMbUr%2BmR8hozIiRQQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20251226110300034557.png" group-title="AIS Play",เพลย์สปอร์ต 64
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/PGA004/DNF/PGA004.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dv0eMZwpzCIQ7S2dT%2FiqgyyhD0eYeZR0Tv3vK7sw7srNiuZGZMbUr%2BmR8hozIiRQQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/PGA004/DNF/PGA004.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dv0eMZwpzCIQ7S2dT%2FiqgwO9gwiORUvmVdOGdA7L5jNNiuZGZMbUr%2BmR8hozIiRQQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20251226191646034596.png" group-title="AIS Play",เพลย์สปอร์ต 66
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/PGA006/DNF/PGA006.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dv0eMZwpzCIQ7S2dT%2FiqgzywOWh7rwJ4KehxHP8kldmNiuZGZMbUr%2BmR8hozIiRQQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/PGA006/DNF/PGA006.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dv0eMZwpzCIQ7S2dT%2FiqgwuKnk3gSfZ5jgatO9it4%2BiNiuZGZMbUr%2BmR8hozIiRQQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20251226191916034600.png" group-title="AIS Play",เพลย์สปอร์ต 69
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/PGA009/DNF/PGA009.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dv0eMZwpzCIQ7S2dT%2Fiqgy28xReT2deQOJXvThSrLRqNiuZGZMbUr%2BmR8hozIiRQQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/PGA009/DNF/PGA009.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dv0eMZwpzCIQ7S2dT%2FiqgxBmewEsK3U0%2BXmP9wSYk2CNiuZGZMbUr%2BmR8hozIiRQQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260106094208034571.png" group-title="AIS Play",เพลย์สปอร์ต 71
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/ATP001/DNF/ATP001.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dqZRH4jWQZoe77SB53vivPDgTBv9L7E6U%2B03DEjth2GNiuZGZMbUr%2BmR8hozIiRQQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/ATP001/DNF/ATP001.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dqZRH4jWQZoe77SB53vivP5n3kfhtt3FiEOEZ2AIugmNiuZGZMbUr%2BmR8hozIiRQQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260629121703060032.png" group-title="AIS Play",เพลย์สปอร์ต 90
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/BL001/DNF/BL001.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5bOfgUqzKrd%2FRi31Usw9H3ary3jC9gdGNX2Qvp%2Fj0DHmo4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/BL001/DNF/BL001.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5bOfgUqzKrd%2FRi31Usw9H3Y6oW1kUj9GEJu9LDBNY8imo4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260731134749064630.png" group-title="AIS Play",เพลย์สปอร์ต 91
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/BL002/DNF/BL002.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5bOfgUqzKrd%2FRi31Usw9H3Zc9n5kwcry1kZ9QT6SAgtKo4xVYgg24dE3IyMfaKs7GQ%3D%3D
-
-#EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260806091703064654.png" group-title="AIS Play",เพลย์สปอร์ต 95
-#EXTVLCOPT:http-user-agent=ExoPlayer
-#EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/BL006/DNF/BL006.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5bOfgUqzKrd%2FRi31Usw9H3YddYT4CdigKX%2BzE7oZblQto4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/BL002/DNF/BL002.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5bOfgUqzKrd%2FRi31Usw9H3amtM34dRbwLTg3thU%2FCQXLo4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133554006699.png" group-title="AIS Play",ซีเอ็นเอ็น
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0172/DNF/V0172.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUsN2cyWkVDwc0FKmBSXB2aAo4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/V0172/DNF/V0172.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUsY7l5JxpJl0%2BeraBEb9fT4o4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133317006529.png" group-title="AIS Play",บีบีซี นิวส์
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0125/DNF/V0125.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUu2aVFVhO%2BNDaz1GTNIqmNKo4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/V0125/DNF/V0125.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUsfb%2BkVvUIWiBzrpXfouEQ0o4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250717150825012452.png" group-title="AIS Play",ฟ๊อกซ์ นิวส์
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0024/DNF/V0024.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUsKHpgu%2FZsQTriWcNTd41Ego4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/V0024/DNF/V0024.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUveWVRo3PtfwH8Bd1p1A67No4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250717155016016166.png" group-title="AIS Play",ฟอกซ์ บิสสิเนส
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0025/DNF/V0025.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUvnpZGEHUh3WhngE%2B9cdncDo4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/V0025/DNF/V0025.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUvU4DGzUgL%2BaukVM%2BSGoJQ0o4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250717155818016167.png" group-title="AIS Play",บลูมเบิร์ก เทเลวิชัน
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0023/DNF/V0023.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUt5mBQxIG5UPF4VaXYdgPW5o4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/V0023/DNF/V0023.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUsfFJ%2BhyQXt6LlGQtWzrLyyo4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133541006698.png" group-title="AIS Play",ชาแนลนิวส์เอเชีย
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0122/DNH/V0122.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUsW8zZ6JZa43aHSF5d8oMwao4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/V0122/DNH/V0122.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUtML3oliuO55u5EIzl4SHu1o4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133716006697.png" group-title="AIS Play",เอ็นเอชเค เวิลด์ ทีวี
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0102/DNH/V0102.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUtJ6vbmKUeZwhUKWkJmuliTo4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/V0102/DNH/V0102.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUuBBCaXRwp9PnojZ07mbvESo4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133402006696.png" group-title="AIS Play",ซีซีทีวี 4
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0173/DNH/V0173.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUtQpJVoLjHPOYvLi111oYqqo4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/V0173/DNH/V0173.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUvECksVBByLz596gvx7sfRCo4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133441006695.png" group-title="AIS Play",ซีจีทีเอ็น
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0174/DNH/V0174.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUsRJZ6eawy2VXZq1BSr7rcSo4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/V0174/DNH/V0174.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUsYBEfPJBdU04WTW2Z5MoQjo4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133745006694.png" group-title="AIS Play",ข่าวทีวีบีเอส
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0108/DNH/V0108.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUvaTp6c7N8dei1JqnJBNyI%2Bo4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/V0108/DNH/V0108.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUsd0X7L1wW%2F9%2FCxwLGxq5F1o4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716102854006504.png" group-title="AIS Play",อัลจาซีรา
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0140/DNH/V0140.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUuyILz747nauKSwcLkEf%2FHWo4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/V0140/DNH/V0140.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUvjKirYypOoAyJYkBUxXPiDo4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133733006693.png" group-title="AIS Play",รัสเซียชาแนล
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0105/DNH/V0105.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUuqPPK7ml%2Fg%2F3nppkD9vAVUo4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/V0105/DNH/V0105.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUvnWuwyGRROTWRkkvs7RyCUo4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133612006593.png" group-title="AIS Play",ดีดับบิว
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0121/DNH/V0121.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUtTuGo%2B4eYdqLmfuVQo9OFPo4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/V0121/DNH/V0121.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUvVdycRPo1sLRBM6d2TOGBto4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716205543006603.png" group-title="AIS Play",ยูโร นิวส์
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0119/DNH/V0119.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUuO8j1kMUh5L9WmLMae7j09o4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/V0119/DNH/V0119.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUtaNH4Ie%2FTzsnWxgqjNxdEmo4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133655006692.png" group-title="AIS Play",ฟร้องซ์ 24
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0123/DNH/V0123.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUszXCH7cfUMifaB0BwOp0Jdo4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/V0123/DNH/V0123.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUt5boOF7DlNyzDhyLmWG0W3o4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716135533006616.png" group-title="AIS Play",ท็อปนิวส์
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0033/DNH/V0033.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUtc2Uzpm241hpvbv%2BE8VhMDo4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/V0033/DNH/V0033.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUu1Tc78xQ3HHq8wndiv62Udo4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133209006691.png" group-title="AIS Play",นิวส์1
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0036/DNH/V0036.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUulxDaGYwd667On551%2F6kP1o4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/V0036/DNH/V0036.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUvT5Rr5BQjG9BLNEMfg2q7%2Fo4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133256006672.png" group-title="AIS Play",กศน. (อีทีวี)
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0087/DNH/V0087.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUtSnweYjTbZHB8GQ3g8B%2FGlo4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/V0087/DNH/V0087.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUs7fQO%2BjayAnfP07LvkaFnjo4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133652006513.png" group-title="AIS Play",ลั่นทุ่ง ทีวี
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0092/DNH/V0092.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11%3A80|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUs5uP05Bht64233dmKrWNw4o4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/V0092/DNH/V0092.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11%3A80|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUul3B71jplIThoxBKD4NV9qo4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20250716133835006517.png" group-title="AIS Play",เอ็มวีทีวี
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/V0090/DNH/V0090.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUuduJ7SzBKjd62rG2lMB%2BQio4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/V0090/DNH/V0090.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dCWW2Q%2FhP4xKGYss4bmuUsnTCziVL%2FY17FtUh6pskgfo4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261014102635069632.png" group-title="AIS Play",เอเชียนพาราเกมส์ 901
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/AG001/DNF/AG001.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dqZRH4jWQZoe77SB53vivN1%2F0h0a46C8aCN4o39eOM8o4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/AG001/DNF/AG001.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dqZRH4jWQZoe77SB53vivN83lT%2BlZDZOl6hNLYMMs5xo4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261014102914069633.png" group-title="AIS Play",เอเชียนพาราเกมส์ 902
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/AG002/DNF/AG002.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dqZRH4jWQZoe77SB53vivOUwq4421OZHkUOP6ZiVUx%2Bo4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/AG002/DNF/AG002.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dqZRH4jWQZoe77SB53vivNfn2NFKviE38I5PDFXotRqo4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261014103237069634.png" group-title="AIS Play",เอเชียนพาราเกมส์ 903
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/AG003/DNF/AG003.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dqZRH4jWQZoe77SB53vivNeaXXdWWRUP54UHFNnJgp1o4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/AG003/DNF/AG003.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dqZRH4jWQZoe77SB53vivMLF%2BCjV4cHZmj0EzGdI4eLo4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261014103301069635.png" group-title="AIS Play",เอเชียนพาราเกมส์ 904
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/AG004/DNF/AG004.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dqZRH4jWQZoe77SB53vivOhgTjYMedid%2B6Mzgeh%2Blw1o4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/AG004/DNF/AG004.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dqZRH4jWQZoe77SB53vivP9Lk3htff7vppyOhzgr2F4o4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261014103321069636.png" group-title="AIS Play",เอเชียนพาราเกมส์ 905
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/AG005/DNF/AG005.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dqZRH4jWQZoe77SB53vivOM1ksbsXd3S44SIP%2Fy%2FY72o4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/AG005/DNF/AG005.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dqZRH4jWQZoe77SB53vivMOQlG3k6e1Wak1oJtEjusbo4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261014103341069637.png" group-title="AIS Play",เอเชียนพาราเกมส์ 906
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/AG006/DNF/AG006.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dqZRH4jWQZoe77SB53vivOYuVRoOriz4q2uvCdHL1%2Fqo4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/AG006/DNF/AG006.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dqZRH4jWQZoe77SB53vivPEhmxfdxwWuASGEVVhKq1mo4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261014103404069638.png" group-title="AIS Play",เอเชียนพาราเกมส์ 907
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/AG007/DNF/AG007.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dqZRH4jWQZoe77SB53vivMLNsOb343KFLStP%2FyOL%2FC6o4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/AG007/DNF/AG007.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dqZRH4jWQZoe77SB53vivN849Uy6sdHtenVfmwft8KJo4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261014103429069639.png" group-title="AIS Play",เอเชียนพาราเกมส์ 908
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/AG008/DNF/AG008.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dqZRH4jWQZoe77SB53vivMHRLbbCz0T0fC6gwQiLAuho4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/AG008/DNF/AG008.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dqZRH4jWQZoe77SB53vivMsE1RimYO1rWUgaXezi78Jo4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261014103450069641.png" group-title="AIS Play",เอเชียนพาราเกมส์ 909
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/AG009/DNF/AG009.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dqZRH4jWQZoe77SB53vivMS%2F2oVsoUukZ6DmfWNNmZqo4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/AG009/DNF/AG009.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dqZRH4jWQZoe77SB53vivP1Cyba6CEO5s1p%2FR2Rmk1go4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261014103510069640.png" group-title="AIS Play",เอเชียนพาราเกมส์ 910
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/AG010/DNF/AG010.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dqZRH4jWQZoe77SB53vivMiiZNTRU84YXHIOnhutKgqo4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/AG010/DNF/AG010.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dqZRH4jWQZoe77SB53vivOmCOWzC9qAgYXVyZ26WYpao4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261015091839080617.png" group-title="AIS Play",เอเชียนพาราเกมส์ 911
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/AG011/DNF/AG011.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dqZRH4jWQZoe77SB53vivO0Zd42n1xRgZJaKPGDUdjvo4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/AG011/DNF/AG011.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dqZRH4jWQZoe77SB53vivMMdP%2FsGbrLUfQPJSpD81SJo4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261015091850080618.png" group-title="AIS Play",เอเชียนพาราเกมส์ 912
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/AG012/DNF/AG012.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dqZRH4jWQZoe77SB53vivMY%2FVQCaOC8YCdMEMOhjRI2o4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/AG012/DNF/AG012.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dqZRH4jWQZoe77SB53vivMNhRj4xVJKmAncRNEL0EJLo4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261015091900080619.png" group-title="AIS Play",เอเชียนพาราเกมส์ 913
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/AG013/DNF/AG013.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dqZRH4jWQZoe77SB53vivOFszoG%2BjXvUNUGK3xlp8auo4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/AG013/DNF/AG013.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dqZRH4jWQZoe77SB53vivMpSh%2Fkqii9nfJVHUmSVrObo4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20261015091911080620.png" group-title="AIS Play",เอเชียนพาราเกมส์ 914
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/AG014/DNF/AG014.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dqZRH4jWQZoe77SB53vivP0nVXAv8fpwPpWyqw8%2BQdAo4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/AG014/DNF/AG014.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=p2gF6XTnWK7P4CVrtEbz5dqZRH4jWQZoe77SB53vivPC2HZjWuoVVyebDOjuODWao4xVYgg24dE3IyMfaKs7GQ%3D%3D
 
