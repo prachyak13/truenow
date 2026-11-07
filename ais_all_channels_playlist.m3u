@@ -338,9 +338,10 @@ https://mp3.ovp.ais.th:7111/live/eds/ATP003/DNF/ATP003.mpd?playbackUrlPrefix=htt
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260629121703060032.png" group-title="AIS Play",เพลย์สปอร์ต 90
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
-https://mp3.ovp.ais.th:7111/live/eds/BL001/DNF/BL001.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=BlhiHEApvsLVBXhHv1z1xtSziA8hLPm%2F3lSoiZSHoJpeu11c4dttz%2FHkDUhPJRTJo4xVYgg24dE3IyMfaKs7GQ%3D%3D
+https://mp3.ovp.ais.th:7111/live/eds/BL005/DNF/BL005.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=y9G8q37s2mil4g%2FwhuvV5OednyWQt5gYapYzY2F3ol5y6MTPYhCML0CH%2BQ0
+JnGls%2Bo4xVYgg24dE3IyMfaks7GQ%3D%3D 
 
-#EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260731134749064630.png" group-title="AIS Play",เพลย์สปอร์ต 91
+#EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th:443/iptvepg/images/poster/20260731134749064630.png" group-title="AIS Play",เพลย์สปอร์ต 94
 #EXTVLCOPT:http-user-agent=ExoPlayer
 #EXTVLCOPT:http-referrer=https://aisplay.ais.th/
 https://mp3.ovp.ais.th:7111/live/eds/BL002/DNF/BL002.mpd?playbackUrlPrefix=https%3A%2F%2Fbkk-web.play-rfcdn.ais.th&rfkname=rfkz&originBasicUrl=http%3A%2F%2F119.31.112.11|authinfo=BlhiHEApvsLVBXhHv1z1xtSziA8hLPm%2F3lSoiZSHoJpfwOK%2BsLx%2B7XuhKhn8AE1uo4xVYgg24dE3IyMfaKs7GQ%3D%3D
